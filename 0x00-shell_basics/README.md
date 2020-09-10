@@ -1,19 +1,19 @@
--0-current_working_directory - prints the absolute path name of the current working directory
--1-listit - prints contents of your current directory as list
--2-bring_me_home - changes the working directory to the user’s home directory
--3-listfiles - Display current directory contents in a long format
--4-listmorefiles - Display current directory contents, including hidden files
--5-listfilesdigitonly - Display current directory contents
--6-firstdirectory - creates a directory named holberton in the /tmp/ directory
--7-movethatfile - Move the file betty from /tmp/ to /tmp/holberton
--8-firstdelete - Delete the file betty
--9-firstdirdeletion - Delete the directory holberton that is in the /tmp directory
--10-back - changes the working directory to the previous one
--11-lists - lists all files include hidden ones in the current directory, the parent and the /boot directory
--12-file_type - prints the type of the file named iamafile
--13-symbolic_link - Create a symbolic link to /bin/ls, named __ls__
--14-copy_html - copies all the HTML files from the current working directory to the parent, but only copy files that did not exist in the parent or were newer than the versions in the parent
--15-lets_move - moves all files beginning with an uppercase letter to the directory /tmp/u
--16-clean_emacs - deletes all files in the current working directory that end with the character ~
--17-tree - creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory
--18-commas - lists all the files and directories of the current directory, separated by commas (,)
+-0-current_working_directory - prints the absolute path name of the current working directory\n
+-1-listit - prints contents of your current directory as list\n
+-2-bring_me_home - changes the working directory to the user’s home directory\n
+-3-listfiles - Display current directory contents in a long format\n
+-4-listmorefiles - Display current directory contents, including hidden files\n
+-5-listfilesdigitonly - Display current directory contents\n
+-6-firstdirectory - creates a directory named holberton in the /tmp/ directory\n
+-7-movethatfile - Move the file betty from /tmp/ to /tmp/holberton\n
+-8-firstdelete - Delete the file betty\n
+-9-firstdirdeletion - Delete the directory holberton that is in the /tmp directory\n
+-10-back - changes the working directory to the previous one\n
+-11-lists - lists all files include hidden ones in the current directory, the parent and the /boot directory\n
+-12-file_type - prints the type of the file named iamafile\n
+-13-symbolic_link - Create a symbolic link to /bin/ls, named __ls__\n
+-14-copy_html - copies all the HTML files from the current working directory to the parent, but only copy files that did not exist in the parent or were newer than the versions in the parent\n
+-15-lets_move - moves all files beginning with an uppercase letter to the directory /tmp/u\n
+-16-clean_emacs - deletes all files in the current working directory that end with the character ~\n
+-17-tree - creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory\n
+-18-commas - lists all the files and directories of the current directory, separated by commas (,)\n
